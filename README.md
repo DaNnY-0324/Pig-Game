@@ -38,5 +38,5 @@ The game consists of two screens:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DaNnY-0324/Pig-Game.git
+   git clone https://github.com/your-username/dice-to-100.git
    ```
